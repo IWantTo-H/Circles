@@ -5,6 +5,7 @@ import io
 from PyQt6 import uic
 from PyQt6.QtGui import QPainter, QPen, QColor
 
+
 template = '''<?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
  <class>MainWindow</class>
